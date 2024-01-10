@@ -1,0 +1,33 @@
+Best Model Subset Accuracy: 96.8148
+Test Subset Accuracy: 84.5926
+Test Hamming Loss: 0.0300
+Test Validation Loss: 0.0851
+
+
+Test Accuracy (per class)
+Class 0: 93.9753
+Class 1: 98.0494
+Class 2: 95.7531
+Class 3: 96.5679
+Class 4: 98.3457
+Class 5: 98.1481
+Class 6: 94.5185
+Class 7: 97.7531
+Class 8: 97.5309
+Class 9: 99.3580
+
+Test AP Score (per class)
+Class 0: 77.2819
+Class 1: 84.6746
+Class 2: 84.7385
+Class 3: 67.7236
+Class 4: 83.7801
+Class 5: 76.9138
+Class 6: 78.7895
+Class 7: 82.9964
+Class 8: 75.9349
+Class 9: 93.9902
+
+Test Mean AP Score Over All Classes: 80.68236505612742
+Test Mean Accuracy Over All Classes: 97.0
+
